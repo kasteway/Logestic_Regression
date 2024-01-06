@@ -79,11 +79,14 @@ The sigmoid function is a way to transform values into a bounded range of 0 to 1
 
 - Output Range: The output of the sigmoid function is always between 0 and 1. This makes it particularly useful for situations where we need to interpret the output as a probability.
 
-- Equation: The basic form of the sigmoid function is f(x) = 1 / (1 + e^(-x)), where e is the base of natural logarithms, and x is the input value.
+- Equation: The basic form of the sigmoid function is f(z) = 1 / (1 + e^(-z)), where e is the base of natural logarithms, and x is the input value.
 
-- Behavior: When the input (x) is a large positive number, the sigmoid function approaches 1, and when x is a large negative number, it approaches 0. Around x=0, the sigmoid function shows a rapid transition from 0 to 1.
+- Behavior: When the input (z) is a large positive number, the sigmoid function approaches 1, and when z is a large negative number, it approaches 0. Around z=0, the sigmoid function shows a rapid transition from 0 to 1.
 
 - Application in Logistic Regression: In logistic regression, the sigmoid function is used to transform the linear equation (like ax + b) into a range between 0 and 1, providing the probability of a particular class or event.
+
+![Screenshot 2024-01-06 at 9 24 18 AM](https://github.com/kasteway/Logestic_Regression/assets/62068733/820ad51a-67b9-4512-bd5c-5ea839b062e3)
+[Source: Andrew Ng Machine Learning Specialization Coursera Github](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3)
 
 ---
 
