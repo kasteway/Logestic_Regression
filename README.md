@@ -101,7 +101,8 @@ The sigmoid function is a way to transform values into a bounded range of 0 to 1
 ## Resources:
 
 - Wikipedia Logistic Regression Link - [Wikipedia Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
-- Scikit-Learn Logistic Regression - [Scikit-Learn Logistic Regression]((https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)) 
+- Scikit-Learn Logistic Regression - [Scikit-Learn Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+- Andrew Ng Machine Learning Specialization Coursera Github - [Andrew Ng Machine Learning Specialization Coursera Github](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3)
 
 
 ---
