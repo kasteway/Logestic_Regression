@@ -85,7 +85,8 @@ The sigmoid function is a way to transform values into a bounded range of 0 to 1
 
 - Application in Logistic Regression: In logistic regression, the sigmoid function is used to transform the linear equation (like ax + b) into a range between 0 and 1, providing the probability of a particular class or event.
 
-![Screenshot 2024-01-06 at 9 24 18 AM](https://github.com/kasteway/Logestic_Regression/assets/62068733/820ad51a-67b9-4512-bd5c-5ea839b062e3)
+![Screenshot 2024-01-06 at 9 35 10 AM](https://github.com/kasteway/Logestic_Regression/assets/62068733/a81d8f15-e439-41f2-ac68-6adc0756f401)
+
 [Source: Andrew Ng Machine Learning Specialization Coursera Github](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3)
 
 ---
