@@ -4,7 +4,11 @@
 
 ### Summary:
 
-Logistic regression is a type of regression analysis used for predicting the outcome of a categorical dependent variable based on one or more predictor variables. It's especially used when the dependent variable is binary, meaning it has only two possible outcomes (like "yes" or "no", "win" or "lose"). The main idea is to find a relationship between features (independent variables) and the probability of a particular outcome. For instance, in a medical context, you might predict the probability of having a disease based on symptoms and test results. Logistic regression is widely used in various fields like medicine, economics, and social sciences. It's useful for predicting outcomes like whether a patient has a disease, a customer will buy a product, or a student will pass an exam.
+Logistic regression is a type of regression analysis used for predicting the outcome of a categorical dependent variable based on one or more predictor variables. It's especially used when the dependent variable is binary, meaning it has only two possible outcomes (like "yes" or "no", "win" or "lose"). It's useful for predicting outcomes like whether a patient has a disease, a customer will buy a product, or a student will pass an exam.
+
+The main idea is to find a relationship between features (independent variables) and the probability of a particular outcome. For instance, in a medical context, you might predict the probability of having a disease based on symptoms and test results. Logistic regression is widely used in various fields like medicine, economics, and social sciences. 
+
+##### Example:
 
 A teacher can use logistic regression to predict students' final exam outcomes (pass or fail) based on two factors: their attendance rate and average homework score. By analyzing past data, the logistic regression model establishes a relationship between these variables and the likelihood of passing the exam. For example, the model might indicate that students with over 75% attendance and homework scores above 70 have a high probability of passing. This predictive insight allows the teacher to identify and support students who are at risk of failing. Although the predictions are based on trends and not guaranteed, they provide a valuable tool for informed educational decision-making.
 
