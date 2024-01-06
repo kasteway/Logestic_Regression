@@ -71,7 +71,7 @@ A teacher can use logistic regression to predict students' final exam outcomes (
 
 ---
 
-## Algorithms used Sigmoid Function:
+## Sigmoid Function used for Logistic Regression:
 
 The sigmoid function is a way to transform values into a bounded range of 0 to 1, making it extremely useful in fields like machine learning for tasks such as binary classification. The sigmoid function, often used in logistic regression and neural networks, is a mathematical function that turns any real-valued number into a value between 0 and 1. 
 
