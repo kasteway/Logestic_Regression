@@ -94,7 +94,7 @@ The sigmoid function is a way to transform values into a bounded range of 0 to 1
 ## Tips:
 
 - Extension to Multiclass Problems: Although primarily used for binary classification, logistic regression can be extended to multiclass problems (where there are more than two possible outcomes) using techniques like one-vs-rest (OvR) or multinomial logistic regression.
-- Non-Convex - will have multiple local minimums if used the squared error cost function to calculate the loss
+- Non-Convex - will have multiple local minimums due to the non-linear nature of the model if squared error cost function is used to calculate the loss
 ![Screenshot 2024-01-07 at 10 52 05 AM](https://github.com/kasteway/Logestic_Regression/assets/62068733/e087e914-e19e-4c5d-9a1c-fc8592d6ca29) ![Screenshot 2024-01-07 at 10 54 27 AM](https://github.com/kasteway/Logestic_Regression/assets/62068733/d4bfbce7-95ee-4f95-960b-23a960ef8b73)
 
 
