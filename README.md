@@ -94,7 +94,7 @@ The sigmoid function is a way to transform values into a bounded range of 0 to 1
 ## Tips:
 
 - Extension to Multiclass Problems: Although primarily used for binary classification, logistic regression can be extended to multiclass problems (where there are more than two possible outcomes) using techniques like one-vs-rest (OvR) or multinomial logistic regression.
-- 
+- Non-Convex - will have multiple local minimums if used the squared error cost function to calculate the loss
 
 ---
 
