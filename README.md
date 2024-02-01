@@ -36,7 +36,7 @@ A teacher can use logistic regression to predict students' final exam outcomes (
 
 
 ---
-#### Assumptions:
+### Assumptions:
 
 - Observations should be independent of one another
 - Predictor variables linearly related to log odds of outcome variable
