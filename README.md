@@ -13,6 +13,7 @@ The main idea is to find a relationship between features (independent variables)
 A teacher can use logistic regression to predict students' final exam outcomes (pass or fail) based on two factors: their attendance rate and average homework score. By analyzing past data, the logistic regression model establishes a relationship between these variables and the likelihood of passing the exam. For example, the model might indicate that students with over 75% attendance and homework scores above 70 have a high probability of passing. This predictive insight allows the teacher to identify and support students who are at risk of failing. Although the predictions are based on trends and not guaranteed, they provide a valuable tool for informed educational decision-making.
 
 
+---
 
 #### How Does it Work?
 
@@ -25,7 +26,7 @@ A teacher can use logistic regression to predict students' final exam outcomes (
 4. Prediction and Interpretation: Using these probabilities, predictions are made (e.g., whether a student passes or fails). The output is interpreted as the likelihood of the outcome occurring, with values closer to 1 indicating a higher probability of the event (e.g., passing the exam).
 
 
-
+---
 
 #### Why is it Important?
 
@@ -33,6 +34,13 @@ A teacher can use logistic regression to predict students' final exam outcomes (
 - Simplicity and Efficiency: As a relatively simple algorithm, logistic regression can be easier to implement, interpret, and train than more complex models. This makes it a good starting point for binary classification problems.
 - Baseline Performance: In machine learning, logistic regression serves as a good baseline model. Due to its simplicity, it's often used to establish an initial performance level that more complex models should exceed.
 
+
+---
+#### Assumptions:
+
+- Observations should be independent of one another
+- Predictor variables linearly related to log odds of outcome variable
+- No or little multicollinearity
 
 ---
 ### Advantages & Disadvantages:
